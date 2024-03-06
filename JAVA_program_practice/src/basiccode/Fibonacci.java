@@ -10,9 +10,9 @@ public class Fibonacci {
 		for(i=2;i<cnt;i++)
 		{
 			no3=no1+no2;
-			System.out.print(" "+no3);
 			no1=no2;
 			no2=no3;
+			System.out.print(" "+no3);
 		}
 		
 	}
