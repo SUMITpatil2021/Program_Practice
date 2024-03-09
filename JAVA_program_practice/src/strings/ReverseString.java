@@ -39,7 +39,7 @@ public class ReverseString {
 		catch(IOException e)
 		{
 			e.printStackTrace();	
-		}
+		} 
 		
 	}
 
